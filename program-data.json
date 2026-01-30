@@ -1,0 +1,106 @@
+{
+  "programInfo": {
+    "name": "Wendler 5/3/1 + Ruck Training Program",
+    "duration": "42 days",
+    "goal": "Norwegian Foot March (30km with 25-30lb)",
+    "targetPace": "12:54/mile"
+  },
+  "trainingMaxes": {
+    "bench": { "tm": 190, "oneRM": 207 },
+    "squat": { "tm": 240, "oneRM": 330 },
+    "deadlift": { "tm": 270, "oneRM": 380 },
+    "ohp": { "tm": 105, "oneRM": 125 }
+  },
+  "workouts": [
+    {
+      "day": 1,
+      "week": 1,
+      "sessionType": "Ruck",
+      "exercises": [
+        {
+          "name": "Ruck Run",
+          "sets": 1,
+          "reps": "3 mi",
+          "load": "30 lb",
+          "notes": "Goal <13:00/mile, Baseline diagnostic"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "sessionType": "Bench 5s",
+      "exercises": [
+        { "name": "Bench Press", "sets": 1, "reps": 5, "load": "125 lb", "notes": "65% TM 190" },
+        { "name": "Bench Press", "sets": 1, "reps": 5, "load": "145 lb", "notes": "75% TM" },
+        { "name": "Bench Press", "sets": 1, "reps": "5+", "load": "160 lb", "notes": "85% TM, AMRAP" },
+        { "name": "Bench Press (BBB)", "sets": 5, "reps": 10, "load": "95 lb", "notes": "BBB @ 45% TM" },
+        { "name": "Pull-ups", "sets": 5, "reps": 5, "load": "Bodyweight", "notes": "" },
+        { "name": "Chest-supported Row", "sets": 4, "reps": "10-12", "load": "Moderate", "notes": "" },
+        { "name": "Curls", "sets": 3, "reps": 12, "load": "Moderate", "notes": "" },
+        { "name": "Triceps Rope Extension", "sets": 3, "reps": 12, "load": "Moderate", "notes": "" }
+      ]
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "sessionType": "Run",
+      "exercises": [
+        { "name": "Tempo Run", "sets": 1, "reps": "45 min", "load": "", "notes": "8:15-8:45/mile" }
+      ]
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "sessionType": "Squat 5s",
+      "exercises": [
+        { "name": "Squat", "sets": 1, "reps": 5, "load": "155 lb", "notes": "65% TM 240" },
+        { "name": "Squat", "sets": 1, "reps": 5, "load": "180 lb", "notes": "75% TM" },
+        { "name": "Squat", "sets": 1, "reps": "5+", "load": "205 lb", "notes": "85% TM, AMRAP" },
+        { "name": "Squat (BBB)", "sets": 5, "reps": 10, "load": "120 lb", "notes": "BBB @ 45% TM" },
+        { "name": "Romanian Deadlift", "sets": 3, "reps": 8, "load": "Moderate", "notes": "" },
+        { "name": "Walking Lunge", "sets": 3, "reps": "20 steps", "load": "Bodyweight/Light", "notes": "" },
+        { "name": "Weighted Plank", "sets": 3, "reps": "45 sec", "load": "Plate", "notes": "" }
+      ]
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "sessionType": "Lower Strength",
+      "exercises": [
+        { "name": "Step-up", "sets": 3, "reps": "12/leg", "load": "Moderate", "notes": "" },
+        { "name": "Lunge", "sets": 3, "reps": "12/leg", "load": "Bodyweight/Light", "notes": "" },
+        { "name": "Plank", "sets": 3, "reps": "1 min", "load": "Bodyweight", "notes": "" }
+      ]
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "sessionType": "Ruck",
+      "exercises": [
+        { "name": "Long Ruck", "sets": 1, "reps": "6 mi", "load": "30 lb", "notes": "Goal ~13:20/mile" }
+      ]
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "sessionType": "OHP Deload + Ruck",
+      "exercises": [
+        { "name": "OHP", "sets": 1, "reps": 5, "load": "40 lb", "notes": "40% TM 105" },
+        { "name": "OHP", "sets": 1, "reps": 5, "load": "55 lb", "notes": "50% TM" },
+        { "name": "OHP", "sets": 1, "reps": 5, "load": "65 lb", "notes": "60% TM" },
+        { "name": "KB Swing", "sets": 3, "reps": 20, "load": "Light-Moderate", "notes": "" },
+        { "name": "Back Extension", "sets": 3, "reps": 15, "load": "Bodyweight/Light", "notes": "" },
+        { "name": "Easy Ruck", "sets": 1, "reps": "2 mi", "load": "20-25 lb", "notes": "Easy pace" }
+      ]
+    },
+    {
+      "day": 40,
+      "week": 6,
+      "sessionType": "Race",
+      "exercises": [
+        { "name": "Norwegian Foot March", "sets": 1, "reps": "30 km / 18.6 mi", "load": "30 lb", "notes": "Goal ~12:54/mile" }
+      ]
+    }
+  ]
+}
